@@ -1,6 +1,5 @@
-Hows it going! Arfaan here,
-
 I'm a **Data Analyst / Data Engineer** with experience building reliable data pipelines, dashboards, and analytics systems that support real business decisions.  
+
 My background includes cloud platforms, SQL, Python, and BI tools, with hands-on experience across analytics, reporting, and data engineering workflows.
 
 I focus on building **clean, scalable, and practical data systems** — not flashy demos.
